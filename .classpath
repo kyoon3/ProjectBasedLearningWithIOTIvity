@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cloud/account/src/main/java"/>
+	<classpathentry kind="src" path="cloud/account/src/test/java"/>
+	<classpathentry kind="src" path="cloud/interface/src/main/java"/>
+	<classpathentry kind="src" path="cloud/interface/src/test/java"/>
+	<classpathentry kind="src" path="cloud/messagequeue/src/main/java"/>
+	<classpathentry kind="src" path="cloud/messagequeue/src/test/java"/>
+	<classpathentry kind="src" path="cloud/resourcedirectory/src/main/java"/>
+	<classpathentry kind="src" path="cloud/resourcedirectory/src/test/java"/>
+	<classpathentry kind="src" path="cloud/stack/src/main/java"/>
+	<classpathentry kind="lib" path="cloud/account/Github.jar"/>
+	<classpathentry kind="lib" path="cloud/account/Google.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
